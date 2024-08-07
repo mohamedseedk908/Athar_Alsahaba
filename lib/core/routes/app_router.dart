@@ -8,17 +8,17 @@ final GoRouter router = GoRouter(
     GoRoute(
       path: '/',
       builder: (BuildContext context, GoRouterState state) {
-        return  SplashView();
+        return  const SplashView();
       },
-      routes: <RouteBase>[
+      routes:const <RouteBase>[
       ],
     ),
     GoRoute(
       path: '/OnBoardingScreen',
       builder: (BuildContext context, GoRouterState state) {
-        return  OnBoardingScreen();
+        return  const OnBoardingScreen();
       },
-      routes: <RouteBase>[
+      routes: const <RouteBase>[
       ],
     ),
   ],

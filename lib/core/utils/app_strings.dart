@@ -3,6 +3,8 @@ abstract class AppStrings {
 
   static const String appName = "AltharAlsahaba",
   //!On Boarding Strings
+       title="Explore The history with AltharAlsahaba in a smart way",
+       suptitle="Using our app’s history libraries you can find many historical periods ",
       skip = "Skip",
       next = "Next",
       createAccount = "Create Account",
