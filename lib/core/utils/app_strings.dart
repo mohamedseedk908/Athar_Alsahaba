@@ -3,7 +3,9 @@ abstract class AppStrings {
 
   static const String appName = "AltharAlsahaba",
   //!On Boarding Strings
-       title="Explore The history with AltharAlsahaba in a smart way",
+       title1="The conquests of the Prophet Muhammad",
+      title2="Ghazw: marching to fight the enemy, and the raid is a bitter form of raid, and the plural is raids, and raiding the enemy only takes place in his country",
+      title3="The number of battles led by the Prophet Muhammad ranged between nineteen and thirty battles, and perhaps the difference in counting the number of battles",
        suptitle="Using our app’s history libraries you can find many historical periods ",
       skip = "Skip",
       next = "Next",
